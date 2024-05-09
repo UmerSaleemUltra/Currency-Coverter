@@ -1,7 +1,6 @@
 const exchangeRates = {
-    "CAD": 1.4748680356,
-    "EUR": 1,
-    "USD": 1.0747024339
+    'CAD': 1.4748680356, 'EUR': 1, 'USD': 1.0747024339, 'PKR': 278.25, 'JBY':133
+
 };
 
 function convert() {
